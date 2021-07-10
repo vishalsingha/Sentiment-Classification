@@ -4,6 +4,10 @@
 
 Models used : 
 * LSTM
+<img src = "https://github.com/vishalsingha/Sentiment-Classification/blob/main/Images/lstm.png?raw=true" heaight="200px" width="200px">
+<img src = "https://github.com/vishalsingha/Sentiment-Classification/blob/main/Images/lstm_glove.png?raw=true" heaight="200px" width="200px">
+<img src = "https://github.com/vishalsingha/Sentiment-Classification/blob/main/Images/CNN.png?raw=true" heaight="200px" width="200px">
+
 * LSTM with pretrained Glove Embedding
 * CNN with pretrained Glove Embedding
 
